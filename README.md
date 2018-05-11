@@ -2,7 +2,7 @@
 
 Run real-time pose estimation in the browser using TensorFlow.js.
 
-[Try it here!](https://montrealai.github.io/posenet-v3/)
+[Try it here!](https://quebecai.github.io/posenet-v3/)
 
 <img src="https://raw.githubusercontent.com/irealva/tfjs-models/master/posenet/demos/camera.gif" alt="cameraDemo" style="width: 600px;"/>
 
